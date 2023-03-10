@@ -11,4 +11,9 @@ class MathTest {
     {
 
     }
+
+    fun multiplyTest()
+    {
+
+    }
 }
