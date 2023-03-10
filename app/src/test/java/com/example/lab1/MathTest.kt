@@ -6,14 +6,4 @@ class MathTest {
     {
 
     }
-
-    fun substractTest()
-    {
-
-    }
-
-    fun multiplyTest()
-    {
-
-    }
 }
